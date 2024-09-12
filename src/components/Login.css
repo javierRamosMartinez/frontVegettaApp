@@ -1,0 +1,33 @@
+.loginContainer {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 1rem;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.formGroup {
+    margin-bottom: 1rem;
+}
+
+.input {
+    padding: 0.5rem;
+    font-size: 1rem;
+    width: 100%;
+}
+
+.button {
+    padding: 0.5rem;
+    font-size: 1rem;
+}
+
+.error {
+    color: red;
+}
+
+.success {
+    color: green;
+}
